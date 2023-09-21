@@ -14,7 +14,7 @@
   "devDependencies": {
     "typescript": "3.3.3"
   },
-  "homepage": "https://Ayushi391.github.io/Keeper-App",
+  "homepage": "https://ayushi391.github.io/Keeper-App",
   "scripts": {
     "predeploy": "npm run build",
    "deploy": "gh-pages -d build",
